@@ -1,0 +1,8 @@
+/home/whitebow/games/Processor Tycoon/BepInEx/plugins/SpreadsheetRowClick/obj/Release/SpreadsheetRowClick.GeneratedMSBuildEditorConfig.editorconfig
+/home/whitebow/games/Processor Tycoon/BepInEx/plugins/SpreadsheetRowClick/obj/Release/SpreadsheetRowClick.csproj.CoreCompileInputs.cache
+/home/whitebow/games/Processor Tycoon/BepInEx/plugins/SpreadsheetRowClick/bin/Release/SpreadsheetRowClick.deps.json
+/home/whitebow/games/Processor Tycoon/BepInEx/plugins/SpreadsheetRowClick/bin/Release/SpreadsheetRowClick.dll
+/home/whitebow/games/Processor Tycoon/BepInEx/plugins/SpreadsheetRowClick/bin/Release/SpreadsheetRowClick.pdb
+/home/whitebow/games/Processor Tycoon/BepInEx/plugins/SpreadsheetRowClick/obj/Release/SpreadsheetRowClick.csproj.AssemblyReference.cache
+/home/whitebow/games/Processor Tycoon/BepInEx/plugins/SpreadsheetRowClick/obj/Release/SpreadsheetRowClick.dll
+/home/whitebow/games/Processor Tycoon/BepInEx/plugins/SpreadsheetRowClick/obj/Release/SpreadsheetRowClick.pdb

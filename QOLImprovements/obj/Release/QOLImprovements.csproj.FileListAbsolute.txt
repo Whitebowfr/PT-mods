@@ -1,0 +1,8 @@
+/home/whitebow/games/Processor Tycoon/BepInEx/plugins/QOLImprovements/obj/Release/QOLImprovements.csproj.AssemblyReference.cache
+/home/whitebow/games/Processor Tycoon/BepInEx/plugins/QOLImprovements/obj/Release/QOLImprovements.GeneratedMSBuildEditorConfig.editorconfig
+/home/whitebow/games/Processor Tycoon/BepInEx/plugins/QOLImprovements/obj/Release/QOLImprovements.csproj.CoreCompileInputs.cache
+/home/whitebow/games/Processor Tycoon/BepInEx/plugins/QOLImprovements/bin/Release/QOLImprovements.deps.json
+/home/whitebow/games/Processor Tycoon/BepInEx/plugins/QOLImprovements/bin/Release/QOLImprovements.dll
+/home/whitebow/games/Processor Tycoon/BepInEx/plugins/QOLImprovements/bin/Release/QOLImprovements.pdb
+/home/whitebow/games/Processor Tycoon/BepInEx/plugins/QOLImprovements/obj/Release/QOLImprovements.dll
+/home/whitebow/games/Processor Tycoon/BepInEx/plugins/QOLImprovements/obj/Release/QOLImprovements.pdb

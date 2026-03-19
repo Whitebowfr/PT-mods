@@ -1,0 +1,71 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": []
+  },
+  "packageFolders": {
+    "/home/whitebow/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/whitebow/games/Processor Tycoon/BepInEx/plugins/QOLImprovements/QOLImprovements.csproj",
+      "projectName": "QOLImprovements",
+      "projectPath": "/home/whitebow/games/Processor Tycoon/BepInEx/plugins/QOLImprovements/QOLImprovements.csproj",
+      "packagesPath": "/home/whitebow/.nuget/packages/",
+      "outputPath": "/home/whitebow/games/Processor Tycoon/BepInEx/plugins/QOLImprovements/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/whitebow/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/nix/store/hw7fxbm09k6pdinq41ji4h91mh7ybi2s-dotnet-sdk-8.0.419/share/dotnet/sdk/8.0.419/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

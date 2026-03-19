@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = QOLImprovements
+build_property.ProjectDir = /home/whitebow/games/Processor Tycoon/BepInEx/plugins/QOLImprovements/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
